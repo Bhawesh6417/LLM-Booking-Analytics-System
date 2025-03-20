@@ -87,9 +87,4 @@ curl -X 'POST' 'http://127.0.0.1:8000/ask' -H 'accept: application/json' -H 'Con
 - Enhancing document retrieval with hybrid search (BM25 + FAISS).
 - Expanding analytics with more detailed insights on seasonal trends.
 
-## Author
-Your Name - [GitHub Profile](https://github.com/your-username)
-
-## License
-This project is licensed under the MIT License.
 
